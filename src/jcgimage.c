@@ -85,6 +85,8 @@
 #include <arpa/inet.h>
 #include <assert.h>
 #include <inttypes.h>
+#include <getopt.h>
+
 
 /*
  * JCG Firmware image header
