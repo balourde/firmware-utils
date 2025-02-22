@@ -14,6 +14,7 @@
 #include <arpa/inet.h>
 #include <unistd.h>
 #include "md5.h"
+#include <getopt.h>
 
 #define HDR_LEN                 0x60
 #define BUF_SIZE                0x200
